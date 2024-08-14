@@ -1,0 +1,4 @@
+com\speakingClock\controller\SpeakingClockController.class
+com\speakingClock\service\SpeakingClockService.class
+com\speakingClock\App.class
+com\speakingClock\exception\ExceptionHandlers.class
